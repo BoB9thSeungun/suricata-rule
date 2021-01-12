@@ -1,0 +1,13 @@
+01/12/2021-22:16:51.116454  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:57922 -> 52.25.212.16:80
+01/12/2021-22:20:51.128614  [**] [1:10004:1] netflix.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:51124 -> 35.163.58.156:443
+01/12/2021-22:20:51.148765  [**] [1:10004:1] netflix.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:51122 -> 35.163.58.156:443
+01/12/2021-22:20:53.610726  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:35110 -> 175.213.35.39:80
+01/12/2021-22:20:53.927029  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:35112 -> 175.213.35.39:80
+01/12/2021-22:20:54.120968  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:35110 -> 175.213.35.39:80
+01/12/2021-22:20:54.654173  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:35110 -> 175.213.35.39:80
+01/12/2021-22:20:54.735568  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:35110 -> 175.213.35.39:80
+01/12/2021-23:46:39.069595  [**] [1:10004:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:58418 -> 52.38.7.83:443
+01/12/2021-23:46:41.258021  [**] [1:10004:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:41372 -> 52.26.119.85:443
+01/12/2021-23:46:41.259601  [**] [1:10004:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:41370 -> 52.26.119.85:443
+01/12/2021-23:50:49.418376  [**] [1:10007:1] dongguk.edu access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:35282 -> 210.94.190.35:80
+01/12/2021-23:51:03.077232  [**] [1:10006:1] cystem.dev access [**] [Classification: (null)] [Priority: 3] {TCP} 172.26.128.4:53674 -> 27.0.236.139:443
